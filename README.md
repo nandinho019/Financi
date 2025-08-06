@@ -16,5 +16,5 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-![01](./Financi/assets/images/financas.png)
-![02](./Financi/assets/images/Financa.png)
+![01](./assets/images/Financiamentoo.png)
+![02](./assets/images/Financiamentoooo.png)
